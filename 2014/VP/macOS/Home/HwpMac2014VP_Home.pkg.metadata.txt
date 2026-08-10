@@ -1,0 +1,11 @@
+Product: 2014/VP
+Edition: macOS/Home
+Channel: VP_macOS_Home
+File: HwpMac2014VP_Home.pkg
+Bytes: 514464549
+SHA-256: e203098c0cf73d1bbc7bfbb5b79ee67e28dda7cdcf4ea40068f227711d960306
+Kind: pkg
+SignatureCheck: 
+Source: https://cdn.hancom.com/pds/hnc/DOWN/HwpMac2014VP_Home.pkg
+ArchivedUTC: 2026-08-10T13:44:14Z
+Notes: 한글 2014 VP for Mac Home 정식 설치기 후보

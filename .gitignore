@@ -1,0 +1,9 @@
+*.exe
+*.pkg
+*.deb
+*.rpm
+*.iso
+*.zip
+*.cab
+*.msi
+*.part

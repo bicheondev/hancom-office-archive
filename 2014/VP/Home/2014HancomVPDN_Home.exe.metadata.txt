@@ -1,0 +1,11 @@
+Product: 2014/VP
+Edition: Home
+Channel: VP_WebInstaller
+File: 2014HancomVPDN_Home.exe
+Bytes: 430400
+SHA-256: 7fcd1909255d0cdce90d80441734620c1cd2dd47394cd1b3206a4a8a2feb9032
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/DOWN/2014HancomVPDN_Home.exe
+ArchivedUTC: 2026-08-10T09:04:41Z
+Notes: 2014 VP Home Edition 웹 설치기

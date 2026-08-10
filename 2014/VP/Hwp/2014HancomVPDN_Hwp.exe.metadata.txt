@@ -1,0 +1,11 @@
+Product: 2014/VP
+Edition: Hwp
+Channel: VP_WebInstaller
+File: 2014HancomVPDN_Hwp.exe
+Bytes: 430392
+SHA-256: 4440d2de6e609704d7dab3a26a1941561ec384eba204f74c8fece42969a6bd8a
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/DOWN/2014HancomVPDN_Hwp.exe
+ArchivedUTC: 2026-08-10T09:04:39Z
+Notes: 2014 VP 한글 단품 웹 설치기

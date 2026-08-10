@@ -1,0 +1,11 @@
+Product: 2014
+Edition: Updates
+Channel: Office_2021-12-22
+File: HOffice2014Update_20211222.exe
+Bytes: 444838832
+SHA-256: 27990d2f448ff52515c33bf72862a148a3ab170e309bee2be839333df66f337d
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/Product/Patch/Office/HOffice2014Update_20211222.exe
+ArchivedUTC: 2026-08-10T09:08:22Z
+Notes: 과거 공식 패치 파일명/경로 후보; 최종 분류는 버전/해시로 검증

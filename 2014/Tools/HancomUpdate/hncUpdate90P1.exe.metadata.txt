@@ -1,0 +1,9 @@
+Product: 2014
+Edition: Tools/HancomUpdate
+Channel: AutoUpdate2014_Bootstrap
+File: hncUpdate90P1.exe
+Bytes: 1131016
+SHA-256: 2b83ed3711fc07d0441ff9de557d6dc16b2418e0a4d0421a1e0dd220fac4da35
+Source: https://cdn.hancom.com/pds/hnc/Product/Patch/Office/hncUpdate90P1.exe
+ArchivedUTC: 2026-08-10T14:55:43Z
+Notes: Hancom Auto Update 2014 bootstrap patch; filename and official download-center entry confirmed, direct CDN path unresolved

@@ -1,0 +1,11 @@
+Product: 2014
+Edition: Viewer/Linux-x86_64-RPM
+Channel: Linux_x86_64_RPM
+File: hancomofficehwpviewer-9.20.0.570-1.x86_64.rpm
+Bytes: 98615450
+SHA-256: 62423a668fb14d150e9c0e48d46b76c781c465529bd08839546146b2b39251cb
+Kind: rpm
+SignatureCheck: 
+Source: https://cdn.hancom.com/pds/hnc/VIE/hancomofficehwpviewer-9.20.0.570-1.x86_64.rpm
+ArchivedUTC: 2026-08-10T09:06:18Z
+Notes: Fedora/RPM x86_64 한글 뷰어

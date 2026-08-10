@@ -1,0 +1,11 @@
+Product: 2014/RTM
+Edition: Home
+Channel: RTM_WebInstaller
+File: 2014HancomDN_Home.exe
+Bytes: 426592
+SHA-256: 25b8434431f709c6bcd0f0c3970861a9ed6311c8f28ddb8dafc33f1683375162
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/DOWN/2014HancomDN_Home.exe
+ArchivedUTC: 2026-08-10T09:04:25Z
+Notes: 2014 Home Edition 웹 설치기

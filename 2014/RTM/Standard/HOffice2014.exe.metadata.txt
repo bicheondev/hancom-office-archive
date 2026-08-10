@@ -1,0 +1,11 @@
+Product: 2014/RTM
+Edition: Standard
+Channel: RTM_Standalone
+File: HOffice2014.exe
+Bytes: 1886693832
+SHA-256: 0f1368181a290048551b69fd4541b12257ff96467c20cc95ce121b415fcd8f53
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/DOWN/HOffice2014.exe
+ArchivedUTC: 2026-08-10T08:54:23Z
+Notes: 한컴오피스 2014 일반/통합 Standalone Installer

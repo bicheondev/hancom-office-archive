@@ -1,0 +1,11 @@
+Product: 2014/VP
+Edition: ESD
+Channel: VP_WebInstaller
+File: 2014HancomVPDN_ESD.exe
+Bytes: 430728
+SHA-256: a0f0dc6abdcf74a148a80e41aa86b595f1efa05c26f2c388a21a4c604c154249
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/DOWN/2014HancomVPDN_ESD.exe
+ArchivedUTC: 2026-08-10T09:04:44Z
+Notes: 2014 VP ESD 웹 설치기

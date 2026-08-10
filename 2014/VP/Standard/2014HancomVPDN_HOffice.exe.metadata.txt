@@ -1,0 +1,11 @@
+Product: 2014/VP
+Edition: Standard
+Channel: VP_WebInstaller
+File: 2014HancomVPDN_HOffice.exe
+Bytes: 430392
+SHA-256: 6e59a61ab0ce626475a2a554c6ee98d79bb756ed2b8cb2e6169b633e85782bc7
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/DOWN/2014HancomVPDN_HOffice.exe
+ArchivedUTC: 2026-08-10T09:04:38Z
+Notes: 2014 VP 일반/통합 웹 설치기

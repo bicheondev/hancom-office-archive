@@ -1,0 +1,11 @@
+Product: 2014
+Edition: Updates
+Channel: Hwp_2021-12-22
+File: Hwp2014Update_20211222.exe
+Bytes: 353347976
+SHA-256: 02c20c8f0a1eb3710ad118ff9f9c102ec5959f22560d8784e6092504b7ade161
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/Product/Patch/Office/Hwp2014Update_20211222.exe
+ArchivedUTC: 2026-08-10T09:09:02Z
+Notes: 과거 공식 패치 파일명/경로 후보; 최종 분류는 버전/해시로 검증

@@ -1,0 +1,9 @@
+Product: 2014
+Edition: Viewer/Linux/Latest/Ubuntu-amd64
+Channel: Linux_Ubuntu_amd64_9.20.0.1573
+File: hancomoffice-hwpviewer-Ubuntu-amd64.deb
+Bytes: 74986562
+SHA-256: 106fd4f65d4e8008a050d192296d5ad2797e3159d293d5f3b35d813936d5198f
+Source: https://cdn.hancom.com/pds/hnc/VIE/hancomoffice-hwpviewer-Ubuntu-amd64.deb
+ArchivedUTC: 2026-08-10T14:55:58Z
+Notes: Later generic-filename Ubuntu amd64 viewer; package version reported as 9.20.0.1573

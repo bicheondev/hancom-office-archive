@@ -1,0 +1,11 @@
+Hancom Office 2014 restricted / unconfirmed media
+=================================================
+
+Not automatically invented:
+- Enterprise/Open License original media
+- Education media
+- Government/administrative-network media
+- ILA / ALA contract-specific packages
+
+Known historical names that currently return Hancom 404index are excluded
+from the default fast path. Use --probe-dead when you want to retry them.

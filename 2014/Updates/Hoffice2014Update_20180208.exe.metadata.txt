@@ -1,0 +1,11 @@
+Product: 2014
+Edition: Updates
+Channel: Office_2018-02-08
+File: Hoffice2014Update_20180208.exe
+Bytes: 429934040
+SHA-256: 7a741a6f65fb0944c92e531d75c8e04603447acff0925b1b572ef017c5f0b3bd
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/Product/Patch/Office/Hoffice2014Update_20180208.exe
+ArchivedUTC: 2026-08-10T13:51:47Z
+Notes: 과거 공식 업데이트 파일명/경로 후보; 해시와 PE magic으로 검증

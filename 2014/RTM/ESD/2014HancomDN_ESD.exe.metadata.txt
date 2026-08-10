@@ -1,0 +1,11 @@
+Product: 2014/RTM
+Edition: ESD
+Channel: RTM_WebInstaller
+File: 2014HancomDN_ESD.exe
+Bytes: 426640
+SHA-256: 64edb30be3ae50acdb6eaaae36a2105d6af8125e2bd60d9ecc094b38440dc71e
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/DOWN/2014HancomDN_ESD.exe
+ArchivedUTC: 2026-08-10T09:04:27Z
+Notes: 2014 ESD 웹 설치기

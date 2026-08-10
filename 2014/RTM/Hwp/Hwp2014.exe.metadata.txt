@@ -1,0 +1,11 @@
+Product: 2014/RTM
+Edition: Hwp
+Channel: RTM_Standalone
+File: Hwp2014.exe
+Bytes: 1566801368
+SHA-256: 4aee67a9ecf736acf41832919aa844f4c072e9567e37833b6474bd2fcaddf97f
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/DOWN/Hwp2014.exe
+ArchivedUTC: 2026-08-10T09:04:19Z
+Notes: 한글 2014 단품 Standalone Installer

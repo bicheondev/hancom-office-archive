@@ -1,0 +1,9 @@
+Product: 2014
+Edition: Viewer/Linux/Latest/Fedora-x86_64
+Channel: Linux_Fedora_x86_64_9.20.0.1575-1
+File: hancomoffice-hwpviewer-Fedora.x86_64.rpm
+Bytes: 98739449
+SHA-256: 74eec1cab53e55bf29f34597081c31eae55cc947fae3a78f4efb4401a6d8f71c
+Source: https://cdn.hancom.com/pds/hnc/VIE/hancomoffice-hwpviewer-Fedora.x86_64.rpm
+ArchivedUTC: 2026-08-10T14:56:26Z
+Notes: Later generic-filename Fedora x86_64 viewer; package version reported as 9.20.0.1575-1

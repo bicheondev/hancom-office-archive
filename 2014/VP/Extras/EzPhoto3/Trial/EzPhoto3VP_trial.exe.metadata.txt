@@ -1,0 +1,11 @@
+Product: 2014/VP
+Edition: Extras/EzPhoto3/Trial
+Channel: VP_EzPhoto3_Trial
+File: EzPhoto3VP_trial.exe
+Bytes: 250566600
+SHA-256: 9dcf84ba5624dd7887290547a36b748af39895846aaa182acd00e685ea20acc5
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/TIR/EzPhoto3VP_trial.exe
+ArchivedUTC: 2026-08-10T13:45:01Z
+Notes: 이지포토 3 VP 체험판

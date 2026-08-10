@@ -1,0 +1,11 @@
+Product: 2014/RTM
+Edition: Standard
+Channel: RTM_WebInstaller
+File: 2014HancomDN_HOffice.exe
+Bytes: 426568
+SHA-256: e37e2425854474b30db9928f1335bd04a1d6e719677fa7e2c59a99510f473e3d
+Kind: exe
+SignatureCheck: NotChecked(install osslsigncode)
+Source: https://cdn.hancom.com/pds/hnc/DOWN/2014HancomDN_HOffice.exe
+ArchivedUTC: 2026-08-10T09:04:22Z
+Notes: 2014 일반/통합 웹 설치기
